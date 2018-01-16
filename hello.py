@@ -1,2 +1,2 @@
-#this is a comment
+#th is a comment
 print "hello world"
